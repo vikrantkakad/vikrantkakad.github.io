@@ -1409,6 +1409,16 @@ header .logo a {
 	position: relative;
 	left: 1.2rem;
 }
+.blog-content .button::after {
+	display: inline-block;
+	content: "\f105";
+	font-family: fontAwesome;
+	font-size: 1.6rem;
+	line-height: inherit;
+	text-align: center;
+	position: relative;
+	left: 1.2rem;
+}
 
 .intro-social {
 	display: block;
